@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-    
+    self.delete_if{|s| s.
   end
 end
